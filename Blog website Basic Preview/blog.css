@@ -1,0 +1,37 @@
+.box1
+{
+    width: 775px;
+    height: 600px;
+   display:flex ;
+   position:relative;
+   float: left;
+}
+.container1
+{
+    position:relative;
+    float: right;
+}
+.box2
+{
+    border: 4px black solid;
+    width: 405px;
+    height: 270px;
+}
+.box3
+{
+    border: 4px black solid;
+    width: 405px;
+    height: 270px;
+}
+#myText
+{
+    width: 775px;
+    height: 562px;
+    border: 4px solid black;
+    font-size: 20px;
+}
+.h1
+{
+   justify-content: center;
+}
+
