@@ -1,0 +1,40 @@
+.button1
+{
+    font-size: 27px;
+    width: 55px;
+    height: 55px;
+    border-radius: 40%;
+    background-color: grey;
+    color: aliceblue;
+}
+.button2
+{
+    font-size: 27px;
+    width: 55px;
+    height: 55px;
+    border-radius: 40%;
+    background-color:darkcyan;
+    color:paleturquoise  ;
+}
+.rows
+{
+    padding: 10px;
+}
+.bar
+{
+    width: 230px;
+    height: 55px; 
+    padding: 10px;
+    font-size: 35px;
+    background-color: grey;
+
+}
+.container
+{
+    border: black solid 2px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 260px;
+    background-color: black;
+}
